@@ -1,0 +1,1616 @@
+<response>
+    <init_game>
+        <user uid="fb:1398167796865915" sid="8e33ede0a023b9ebfc33ff54a913d3fb" last_visit_time="1472040521">
+            <meta_info>
+                <rating>9</rating>
+                <last_update>1470862800</last_update>
+            </meta_info>
+            <clan_battle end_time="1472072400" clan_battle_id="251" status="active"/>
+            <entities>
+                <building>
+                    <id>1</id>
+                    <type>hero_house</type>
+                    <x>33</x>
+                    <y>39</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <habitant>lanklar</habitant>
+                </building>
+                <building>
+                    <id>2</id>
+                    <type>hero_house</type>
+                    <x>32</x>
+                    <y>36</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <habitant>martin</habitant>
+                </building>
+                <building>
+                    <id>3</id>
+                    <type>hero_house</type>
+                    <x>36</x>
+                    <y>43</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <habitant>elliot</habitant>
+                </building>
+                <building>
+                    <id>4</id>
+                    <type>tavern</type>
+                    <x>32</x>
+                    <y>42</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <int_properties>
+                        <property>
+                            <type>gold</type>
+                            <value>21</value>
+                        </property>
+                        <property>
+                            <type>upgrade_1</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_2</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_4</type>
+                            <value>1</value>
+                        </property>
+                    </int_properties>
+                    <tickers>
+                        <ticker type="regular" last_update="1472040210"/>
+                    </tickers>
+                </building>
+                <building>
+                    <id>5</id>
+                    <type>granary</type>
+                    <x>29</x>
+                    <y>27</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>6</id>
+                    <type>storehouse</type>
+                    <x>32</x>
+                    <y>31</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>7</id>
+                    <type>lumberjack</type>
+                    <x>32</x>
+                    <y>46</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <int_properties>
+                        <property>
+                            <type>lumberjack_s01_counter</type>
+                            <value>10</value>
+                        </property>
+                        <property>
+                            <type>lumberjack_s02_counter</type>
+                            <value>22</value>
+                        </property>
+                        <property>
+                            <type>lumberjack_s03</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>lumberjack_s04_counter</type>
+                            <value>10</value>
+                        </property>
+                        <property>
+                            <type>materials</type>
+                            <value>350</value>
+                        </property>
+                        <property>
+                            <type>upgrade_1</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_4</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_7</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_8</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_9</type>
+                            <value>1</value>
+                        </property>
+                    </int_properties>
+                    <tickers>
+                        <ticker type="regular" last_update="1472040390"/>
+                        <ticker type="special" last_update="1472039850"/>
+                    </tickers>
+                </building>
+                <building>
+                    <id>8</id>
+                    <type>field</type>
+                    <x>26</x>
+                    <y>41</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <int_properties>
+                        <property>
+                            <type>field_s01</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>field_s02_counter</type>
+                            <value>9</value>
+                        </property>
+                        <property>
+                            <type>field_s03_counter</type>
+                            <value>22</value>
+                        </property>
+                        <property>
+                            <type>food</type>
+                            <value>400</value>
+                        </property>
+                        <property>
+                            <type>upgrade_1</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_4</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_7</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_8</type>
+                            <value>1</value>
+                        </property>
+                    </int_properties>
+                    <tickers>
+                        <ticker type="regular" last_update="1472040210"/>
+                        <ticker type="special" last_update="1472039850"/>
+                    </tickers>
+                </building>
+                <building>
+                    <id>9</id>
+                    <type>hero_house</type>
+                    <x>38</x>
+                    <y>46</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <habitant>elaya</habitant>
+                </building>
+                <building>
+                    <id>10</id>
+                    <type>harbor</type>
+                    <x>48</x>
+                    <y>34</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>11</id>
+                    <type>base</type>
+                    <x>23</x>
+                    <y>32</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>12</id>
+                    <type>hero_house</type>
+                    <x>23</x>
+                    <y>44</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <habitant>isgard</habitant>
+                </building>
+                <building>
+                    <id>13</id>
+                    <type>engineer_guild</type>
+                    <x>23</x>
+                    <y>26</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>14</id>
+                    <type>grove</type>
+                    <x>37</x>
+                    <y>56</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <int_properties>
+                        <property>
+                            <type>dust</type>
+                            <value>300</value>
+                        </property>
+                        <property>
+                            <type>grove_s01_counter</type>
+                            <value>7</value>
+                        </property>
+                        <property>
+                            <type>grove_s02_counter</type>
+                            <value>15</value>
+                        </property>
+                        <property>
+                            <type>grove_s03</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_1</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_2</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_7</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>upgrade_8</type>
+                            <value>1</value>
+                        </property>
+                    </int_properties>
+                    <tickers>
+                        <ticker type="regular" last_update="1472040377"/>
+                        <ticker type="special" last_update="1472036957"/>
+                    </tickers>
+                </building>
+                <building>
+                    <id>15</id>
+                    <type>alchemist_guild</type>
+                    <x>43</x>
+                    <y>56</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>16</id>
+                    <type>brothel</type>
+                    <x>43</x>
+                    <y>26</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <int_properties>
+                        <property>
+                            <type>gold</type>
+                            <value>64</value>
+                        </property>
+                        <property>
+                            <type>upgrade_1</type>
+                            <value>1</value>
+                        </property>
+                    </int_properties>
+                    <tickers>
+                        <ticker type="regular" last_update="1472040281"/>
+                    </tickers>
+                </building>
+                <building>
+                    <id>17</id>
+                    <type>hall_of_heroes</type>
+                    <x>34</x>
+                    <y>26</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>18</id>
+                    <type>arkentarium</type>
+                    <x>43</x>
+                    <y>31</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <int_properties>
+                        <property>
+                            <type>upgrade_1</type>
+                            <value>1</value>
+                        </property>
+                    </int_properties>
+                    <tickers>
+                        <ticker type="regular" last_update="1472033310"/>
+                    </tickers>
+                </building>
+                <building>
+                    <id>19</id>
+                    <type>mercenaries_camp</type>
+                    <x>41</x>
+                    <y>36</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>20</id>
+                    <type>hero_house</type>
+                    <x>41</x>
+                    <y>41</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <habitant>brock</habitant>
+                </building>
+                <building>
+                    <id>21</id>
+                    <type>quarry</type>
+                    <x>15</x>
+                    <y>51</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <int_properties>
+                        <property>
+                            <type>lumberjack_s01</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>materials</type>
+                            <value>400</value>
+                        </property>
+                    </int_properties>
+                    <tickers>
+                        <ticker type="regular" last_update="1472039716"/>
+                        <ticker type="special" last_update="1472039716"/>
+                    </tickers>
+                </building>
+                <building>
+                    <id>22</id>
+                    <type>treasury</type>
+                    <x>28</x>
+                    <y>48</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>23</id>
+                    <type>fish</type>
+                    <x>52</x>
+                    <y>17</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <int_properties>
+                        <property>
+                            <type>field_s01</type>
+                            <value>1</value>
+                        </property>
+                        <property>
+                            <type>food</type>
+                            <value>500</value>
+                        </property>
+                    </int_properties>
+                    <tickers>
+                        <ticker type="regular" last_update="1472039859"/>
+                        <ticker type="special" last_update="1472036979"/>
+                    </tickers>
+                </building>
+                <building>
+                    <id>24</id>
+                    <type>granary</type>
+                    <x>39</x>
+                    <y>27</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>25</id>
+                    <type>dust_store</type>
+                    <x>39</x>
+                    <y>50</y>
+                    <construct_timing_id>0</construct_timing_id>
+                </building>
+                <building>
+                    <id>26</id>
+                    <type>hero_house</type>
+                    <x>24</x>
+                    <y>48</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <habitant>marianna</habitant>
+                </building>
+                <building>
+                    <id>27</id>
+                    <type>gambling</type>
+                    <x>41</x>
+                    <y>45</y>
+                    <construct_timing_id>0</construct_timing_id>
+                    <int_properties>
+                        <property>
+                            <type>gold</type>
+                            <value>18</value>
+                        </property>
+                    </int_properties>
+                    <tickers>
+                        <ticker type="regular" last_update="1472040167"/>
+                    </tickers>
+                </building>
+                <last_timing_check>1472040521</last_timing_check>
+                <timing>
+                    <id>313</id>
+                    <type>offer_fortune_teller_cooldown_timer</type>
+                    <start_time>1471783911</start_time>
+                </timing>
+                <timing>
+                    <id>317</id>
+                    <type>clear_interval_psv_timer</type>
+                    <start_time>1471928038</start_time>
+                </timing>
+                <timing>
+                    <id>335</id>
+                    <type>daily_tournament_quest_03_cooldown_timing</type>
+                    <start_time>1472014337</start_time>
+                </timing>
+                <timing>
+                    <id>336</id>
+                    <type>daily_action_timer</type>
+                    <start_time>1472014440</start_time>
+                </timing>
+                <timing>
+                    <id>337</id>
+                    <type>daily_item_counter_cooldown_timing</type>
+                    <start_time>1472014441</start_time>
+                </timing>
+                <timing>
+                    <id>339</id>
+                    <type>everyday_offer_22_0_active_timing</type>
+                    <start_time>1472015044</start_time>
+                </timing>
+                <timing>
+                    <id>340</id>
+                    <type>wound_heal_timer</type>
+                    <start_time>1472033250</start_time>
+                </timing>
+                <hero>
+                    <type>brock</type>
+                </hero>
+                <hero>
+                    <type>elaya</type>
+                </hero>
+                <hero>
+                    <type>elliot</type>
+                </hero>
+                <hero>
+                    <type>isgard</type>
+                </hero>
+                <hero>
+                    <type>lanklar</type>
+                </hero>
+                <hero>
+                    <type>marianna</type>
+                </hero>
+                <hero>
+                    <type>martin</type>
+                </hero>
+                <portal>
+                    <id>2</id>
+                    <dungeon>tutorial_mines</dungeon>
+                    <level>2</level>
+                </portal>
+                <portal>
+                    <id>3</id>
+                    <dungeon>dead_sun_city_opt1_1</dungeon>
+                    <level>5</level>
+                </portal>
+                <title>
+                    <type>title_newbie</type>
+                </title>
+            </entities>
+            <notifications>
+                <notification id="1" time="1469952046" type="engineer_quest_citizen_notification" used="false"/>
+                <notification id="2" time="1469952306" type="wich_quest_citizen_notification" used="false"/>
+                <notification id="3" time="1469952306" type="default_message_hero" used="false"/>
+                <notification id="4" time="1469953119" type="citizen_brothel_citizen_notification" used="false"/>
+                <notification id="5" time="1469953285" type="automatic_compensation_notification" used="true">
+                    <reward_1_type>mercenary_ladder</reward_1_type>
+                    <reward_2_type>item</reward_2_type>
+                    <reward_3_type>item</reward_3_type>
+                    <reward_item_1_count>6</reward_item_1_count>
+                    <reward_item_1_type>merc_rocketjumper_ladder</reward_item_1_type>
+                    <reward_item_2_count>50</reward_item_2_count>
+                    <reward_item_2_type>crystal</reward_item_2_type>
+                    <reward_item_3_count>150</reward_item_3_count>
+                    <reward_item_3_type>soul_gem</reward_item_3_type>
+                </notification>
+                <notification id="6" time="1469953926" type="gustav_citizen_notification" used="false"/>
+                <notification id="7" time="1469954491" type="eva_citizen_notification" used="false"/>
+                <notification id="8" time="1469963234" type="rudi_citizen_notification" used="false"/>
+                <notification id="9" time="1469965105" type="user_get_scheme_notification_with_id" used="false">
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>1</reward_item_1_count>
+                    <reward_item_1_type>schemes</reward_item_1_type>
+                    <sender_uid>fb:1666939410297423</sender_uid>
+                </notification>
+                <notification id="10" time="1469966197" type="frazmir_citizen_notification" used="false"/>
+                <notification id="11" time="1469972254" type="ksandr_citizen_notification" used="false"/>
+                <notification id="12" time="1469992546" type="clan_candidate_accepted_notification" used="false">
+                    <clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</clan_id>
+                </notification>
+                <notification id="13" time="1469996721" type="clan_candidate_invite_accepted_notification" used="false">
+                    <clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</clan_id>
+                </notification>
+                <notification id="14" time="1470043310" type="clan_candidate_rejected_notification" used="false">
+                    <clan_id>5d63d4c1fe7bf6e1cc7a2c44e1db6ac6</clan_id>
+                </notification>
+                <notification id="15" time="1470080872" type="championship_token_reward_notification" used="true">
+                    <league>1</league>
+                    <league_changed>true</league_changed>
+                    <place>1</place>
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>16</reward_item_1_count>
+                    <reward_item_1_type>token</reward_item_1_type>
+                </notification>
+                <notification id="16" time="1470162801" type="olli_citizen_notification" used="false"/>
+                <notification id="17" time="1470287239" type="championship_token_reward_notification" used="true">
+                    <league>1</league>
+                    <league_changed>false</league_changed>
+                    <place>5</place>
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>12</reward_item_1_count>
+                    <reward_item_1_type>token</reward_item_1_type>
+                </notification>
+                <notification id="18" time="1470287247" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>1821478d9a58b6ac65996af71802cd3b</opponent_clan_id>
+                    <opponent_clan_score>10</opponent_clan_score>
+                    <time>1470171601</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>8</user_clan_score>
+                    <win>false</win>
+                </notification>
+                <notification id="19" time="1470340732" type="jungle_ritual_competition_notification" used="false"/>
+                <notification id="20" time="1470562822" type="championship_token_reward_notification" used="true">
+                    <league>2</league>
+                    <league_changed>true</league_changed>
+                    <place>1</place>
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>32</reward_item_1_count>
+                    <reward_item_1_type>token</reward_item_1_type>
+                </notification>
+                <notification id="21" time="1470562835" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>3ec8b4e75efb69535dc7d37fca5e99dc</opponent_clan_id>
+                    <opponent_clan_score>11</opponent_clan_score>
+                    <time>1470517201</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>7</user_clan_score>
+                    <win>false</win>
+                </notification>
+                <notification id="22" time="1470607077" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>61891a5e642a182531def9752a01a9be</opponent_clan_id>
+                    <opponent_clan_score>10</opponent_clan_score>
+                    <time>1470603601</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>8</user_clan_score>
+                    <win>false</win>
+                </notification>
+                <notification id="23" time="1470677060" type="championship_token_reward_notification" used="true">
+                    <league>3</league>
+                    <league_changed>true</league_changed>
+                    <place>1</place>
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>80</reward_item_1_count>
+                    <reward_item_1_type>token</reward_item_1_type>
+                </notification>
+                <notification id="24" time="1470720321" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>13df2562c94cb1e8b26ee6197caf4c4e</opponent_clan_id>
+                    <opponent_clan_score>8</opponent_clan_score>
+                    <time>1470690001</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>9</user_clan_score>
+                    <win>true</win>
+                </notification>
+                <notification id="25" time="1470767481" type="championship_token_reward_notification" used="true">
+                    <league>4</league>
+                    <league_changed>true</league_changed>
+                    <place>3</place>
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>56</reward_item_1_count>
+                    <reward_item_1_type>token</reward_item_1_type>
+                </notification>
+                <notification id="26" time="1470767503" type="jungle_ritual_event_notification" used="false"/>
+                <notification id="27" time="1470768557" type="user_get_support_notification_with_id" used="false">
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>1</reward_item_1_count>
+                    <reward_item_1_type>support_scheme</reward_item_1_type>
+                    <sender_uid>fb:1666939410297423</sender_uid>
+                </notification>
+                <notification id="28" time="1470801370" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>38a57ca2f794d1f1d41fe00c7e31667e</opponent_clan_id>
+                    <opponent_clan_score>8</opponent_clan_score>
+                    <time>1470776401</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>11</user_clan_score>
+                    <win>true</win>
+                </notification>
+                <notification id="29" time="1470855776" type="championship_no_reward_notification" used="false">
+                    <league>3</league>
+                    <league_changed>true</league_changed>
+                    <place>8</place>
+                </notification>
+                <notification id="30" time="1471001514" type="user_get_support_notification_with_id" used="false">
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>1</reward_item_1_count>
+                    <reward_item_1_type>support_scheme</reward_item_1_type>
+                    <sender_uid>fb:1666939410297423</sender_uid>
+                </notification>
+                <notification id="31" time="1471094274" type="championship_no_reward_notification" used="false">
+                    <league>2</league>
+                    <league_changed>true</league_changed>
+                    <place>9</place>
+                </notification>
+                <notification id="32" time="1471094301" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>3270bc72e1f8abbcd91b1dab640e27e0</opponent_clan_id>
+                    <opponent_clan_score>18</opponent_clan_score>
+                    <time>1471035602</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>14</user_clan_score>
+                    <win>false</win>
+                </notification>
+                <notification id="33" time="1471103798" type="user_get_support_notification_with_id" used="false">
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>1</reward_item_1_count>
+                    <reward_item_1_type>support_scheme</reward_item_1_type>
+                    <sender_uid>fb:1666939410297423</sender_uid>
+                </notification>
+                <notification id="34" time="1471103801" type="user_get_scheme_notification_with_id" used="false">
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>1</reward_item_1_count>
+                    <reward_item_1_type>schemes</reward_item_1_type>
+                    <sender_uid>fb:1666939410297423</sender_uid>
+                </notification>
+                <notification id="35" time="1471287089" type="championship_token_reward_notification" used="true">
+                    <league>2</league>
+                    <league_changed>false</league_changed>
+                    <place>6</place>
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>32</reward_item_1_count>
+                    <reward_item_1_type>token</reward_item_1_type>
+                </notification>
+                <notification id="36" time="1471287100" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>4966380552aacf06027523aa14afc695</opponent_clan_id>
+                    <opponent_clan_score>3</opponent_clan_score>
+                    <time>1471122000</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>19</user_clan_score>
+                    <win>true</win>
+                </notification>
+                <notification id="37" time="1471287908" type="mary_citizen_notification" used="false"/>
+                <notification id="38" time="1471289713" type="kate_citizen_notification" used="false"/>
+                <notification id="39" time="1471291233" type="kin_citizen_notification" used="false"/>
+                <notification id="40" time="1471291969" type="anny_malko_citizen_notification" used="false"/>
+                <notification id="41" time="1471375353" type="championship_no_reward_notification" used="false">
+                    <league>1</league>
+                    <league_changed>true</league_changed>
+                    <place>9</place>
+                </notification>
+                <notification id="42" time="1471375805" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>13a3091850ffe931aca6458e5d4324b2</opponent_clan_id>
+                    <opponent_clan_score>7</opponent_clan_score>
+                    <time>1471294801</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>16</user_clan_score>
+                    <win>true</win>
+                </notification>
+                <notification id="43" time="1471375806" type="ted_citizen_notification" used="false"/>
+                <notification id="44" time="1471415826" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>56db49bc81023f31862336cfc518df51</opponent_clan_id>
+                    <opponent_clan_score>14</opponent_clan_score>
+                    <time>1471381201</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>19</user_clan_score>
+                    <win>true</win>
+                </notification>
+                <notification id="45" time="1471460782" type="user_get_scheme_notification_with_id" used="false">
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>1</reward_item_1_count>
+                    <reward_item_1_type>schemes</reward_item_1_type>
+                    <sender_uid>fb:1666939410297423</sender_uid>
+                </notification>
+                <notification id="46" time="1471460887" type="citizen_lori_citizen_notification" used="false"/>
+                <notification id="47" time="1471460887" type="citizen_rupert_citizen_notification" used="false"/>
+                <notification id="48" time="1471461387" type="championship_token_reward_notification" used="true">
+                    <league>2</league>
+                    <league_changed>true</league_changed>
+                    <place>1</place>
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>32</reward_item_1_count>
+                    <reward_item_1_type>token</reward_item_1_type>
+                </notification>
+                <notification id="49" time="1471462644" type="miroslav_citizen_notification" used="false"/>
+                <notification id="50" time="1471546220" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>b439aa96e3b07cac33752861a559d499</opponent_clan_id>
+                    <opponent_clan_score>6</opponent_clan_score>
+                    <time>1471467601</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>20</user_clan_score>
+                    <win>true</win>
+                </notification>
+                <notification id="51" time="1471634398" type="championship_token_reward_notification" used="true">
+                    <league>2</league>
+                    <league_changed>false</league_changed>
+                    <place>7</place>
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>32</reward_item_1_count>
+                    <reward_item_1_type>token</reward_item_1_type>
+                </notification>
+                <notification id="52" time="1471634410" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>ba28820d4048a78f2df129057e6c6984</opponent_clan_id>
+                    <opponent_clan_score>17</opponent_clan_score>
+                    <time>1471554001</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>15</user_clan_score>
+                    <win>false</win>
+                </notification>
+                <notification id="53" time="1471674638" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>a01aa137d61a210041d20cdf003ca8b9</opponent_clan_id>
+                    <opponent_clan_score>16</opponent_clan_score>
+                    <time>1471640401</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>11</user_clan_score>
+                    <win>false</win>
+                </notification>
+                <notification id="54" time="1471783764" type="championship_no_reward_notification" used="false">
+                    <league>1</league>
+                    <league_changed>true</league_changed>
+                    <place>10</place>
+                </notification>
+                <notification id="55" time="1471783908" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>d0ef60f2ab765d44ec535de27aa833c3</opponent_clan_id>
+                    <opponent_clan_score>8</opponent_clan_score>
+                    <time>1471726801</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>14</user_clan_score>
+                    <win>true</win>
+                </notification>
+                <notification id="56" time="1471789925" type="user_get_scheme_notification_with_id" used="false">
+                    <reward_1_type>item</reward_1_type>
+                    <reward_item_1_count>1</reward_item_1_count>
+                    <reward_item_1_type>schemes</reward_item_1_type>
+                    <sender_uid>fb:1666939410297423</sender_uid>
+                </notification>
+                <notification id="57" time="1471928030" type="championship_no_reward_notification" used="false">
+                    <league>0</league>
+                    <league_changed>true</league_changed>
+                    <place>10</place>
+                </notification>
+                <notification id="58" time="1471928039" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>70d6109181b80121326847a7cae94ed1</opponent_clan_id>
+                    <opponent_clan_score>10</opponent_clan_score>
+                    <time>1471899602</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>6</user_clan_score>
+                    <win>false</win>
+                </notification>
+                <notification id="59" time="1472014329" type="championship_no_reward_notification" used="false">
+                    <league>0</league>
+                    <league_changed>false</league_changed>
+                    <place>10</place>
+                </notification>
+                <notification id="60" time="1472014339" type="clan_battle_result_notification" used="false">
+                    <opponent_clan_id>76d191c18c04eb984c365c9de09d5b73</opponent_clan_id>
+                    <opponent_clan_score>7</opponent_clan_score>
+                    <time>1471986001</time>
+                    <user_clan_id>34bba5e1fb6aaeee63bf9d4ccca919b9</user_clan_id>
+                    <user_clan_score>9</user_clan_score>
+                    <win>true</win>
+                </notification>
+            </notifications>
+            <competitions>
+                <competition type="jungle_ritual_competition" rating="21" start_time="1470322801"/>
+            </competitions>
+            <messages refresh_time="0"/>
+            <items>
+                <item type="achievement_bronze_league_complete" value="1"/>
+                <item type="achievement_golden_league_complete" value="1"/>
+                <item type="achievement_iron_league_complete" value="1"/>
+                <item type="achievement_league_place_1_complete" value="1"/>
+                <item type="achievement_pvp_1_1_complete" value="1"/>
+                <item type="achievement_pvp_1_2_complete" value="1"/>
+                <item type="achievement_pvp_3_1_complete" value="1"/>
+                <item type="achievement_silver_league_complete" value="1"/>
+                <item type="alchemist_guild" value="1"/>
+                <item type="anny_malko_citizen_notification" value="1"/>
+                <item type="arkentarium_active" value="1"/>
+                <item type="ash_1_citizen_count" value="2"/>
+                <item type="ash_1_difficulty_1_levels_passed" value="4"/>
+                <item type="ash_1_difficulty_2_levels_passed" value="5"/>
+                <item type="ash_1_difficulty_2_lose" value="1"/>
+                <item type="ash_1_difficulty_3_levels_passed" value="5"/>
+                <item type="ash_1_difficulty_3_lose" value="1"/>
+                <item type="ash_1_entry_opened" value="4"/>
+                <item type="ash_1_treasure_count" value="14"/>
+                <item type="ash_2_citizen_count" value="2"/>
+                <item type="ash_2_difficulty_1_levels_passed" value="6"/>
+                <item type="ash_2_difficulty_2_levels_passed" value="6"/>
+                <item type="ash_2_difficulty_3_levels_passed" value="6"/>
+                <item type="ash_2_entry_opened" value="4"/>
+                <item type="ash_2_reg_quest_counter" value="3"/>
+                <item type="ash_2_treasure_count" value="18"/>
+                <item type="ash_3_citizen_count" value="2"/>
+                <item type="ash_3_difficulty_1_levels_passed" value="7"/>
+                <item type="ash_3_difficulty_2_levels_passed" value="7"/>
+                <item type="ash_3_difficulty_3_levels_passed" value="7"/>
+                <item type="ash_3_entry_opened" value="4"/>
+                <item type="ash_3_reg_quest_counter" value="3"/>
+                <item type="ash_3_treasure_count" value="21"/>
+                <item type="ash_opt1_entry_opened" value="1"/>
+                <item type="aurora_common_equipment_2_blueprint" value="1"/>
+                <item type="aurora_unlock" value="1"/>
+                <item type="avatar_defender_ability_1_item" value="1"/>
+                <item type="avatar_defenders_temple_level_count" value="1"/>
+                <item type="avatar_engineer_ability_1_item" value="1"/>
+                <item type="avatar_engineer_upgrades_attack" value="1"/>
+                <item type="avatar_engineer_upgrades_health" value="2"/>
+                <item type="avatar_engineers_temple_level_count" value="1"/>
+                <item type="avatar_hunter_ability_1_item" value="1"/>
+                <item type="avatar_hunters_temple_level_count" value="1"/>
+                <item type="avatar_mage_ability_1_item" value="1"/>
+                <item type="avatar_mages_temple_level_count" value="1"/>
+                <item type="avatar_upgrade_counter" value="3"/>
+                <item type="avatar_used_counter" value="13"/>
+                <item type="avatar_warrior_ability_1_item" value="1"/>
+                <item type="avatar_warriors_temple_level_count" value="1"/>
+                <item type="blessing" value="21"/>
+                <item type="brock_ability_1_upgrade" value="1"/>
+                <item type="brock_action_start" value="1"/>
+                <item type="brock_common_equipment_3_blueprint" value="1"/>
+                <item type="brock_fatigue_item" value="1"/>
+                <item type="brock_unlock" value="1"/>
+                <item type="bronze_league_item" value="1"/>
+                <item type="brothel_collected" value="67"/>
+                <item type="calc_mid_payment_action_item" value="1"/>
+                <item type="championship_chest_tab_unlock_item" value="1"/>
+                <item type="championship_chests_tab_first_time_show_complete" value="1"/>
+                <item type="championship_last_wins" value="1"/>
+                <item type="championship_rating" value="9"/>
+                <item type="chronicler_ability_upgrade" value="56"/>
+                <item type="chronicler_boss_counter" value="13"/>
+                <item type="chronicler_chest_opened" value="133"/>
+                <item type="chronicler_clan_guard_upgrade" value="2"/>
+                <item type="chronicler_collection" value="17"/>
+                <item type="chronicler_crystal" value="5"/>
+                <item type="chronicler_dust_counter" value="7270"/>
+                <item type="chronicler_food_counter" value="10285"/>
+                <item type="chronicler_gold_counter" value="12148"/>
+                <item type="chronicler_man_frag" value="40"/>
+                <item type="chronicler_materials_counter" value="15941"/>
+                <item type="chronicler_spell_create" value="620"/>
+                <item type="chronicler_token_counter" value="292"/>
+                <item type="chronicler_tournaments_won" value="24"/>
+                <item type="citizen_anny_malko_submit" value="1"/>
+                <item type="citizen_brothel" value="2"/>
+                <item type="citizen_brothel_citizen_notification" value="1"/>
+                <item type="citizen_citizen_brothel_submit" value="1"/>
+                <item type="citizen_citizen_lori_submit" value="1"/>
+                <item type="citizen_citizen_rupert_submit" value="1"/>
+                <item type="citizen_engineer_quest_submit" value="1"/>
+                <item type="citizen_eva_submit" value="1"/>
+                <item type="citizen_frazmir_submit" value="1"/>
+                <item type="citizen_gustav_submit" value="1"/>
+                <item type="citizen_kate_submit" value="1"/>
+                <item type="citizen_kin_submit" value="1"/>
+                <item type="citizen_ksandr" value="1"/>
+                <item type="citizen_ksandr_submit" value="1"/>
+                <item type="citizen_lori_citizen_notification" value="1"/>
+                <item type="citizen_mary_submit" value="1"/>
+                <item type="citizen_miroslav_submit" value="1"/>
+                <item type="citizen_olli_submit" value="1"/>
+                <item type="citizen_rudi_submit" value="1"/>
+                <item type="citizen_rupert_citizen_notification" value="1"/>
+                <item type="citizen_ted_submit" value="1"/>
+                <item type="citizen_wich_quest_submit" value="1"/>
+                <item type="clan_archer_engineer_arrow_rain_upgrade" value="1"/>
+                <item type="clan_battle_engineer_temple_2_stages_lose" value="2"/>
+                <item type="clan_defenders_upgrade_quest_1_complete" value="1"/>
+                <item type="clan_defenders_upgrade_quest_1_pre" value="1"/>
+                <item type="clan_defenders_upgrade_quest_3_complete" value="1"/>
+                <item type="clan_defenders_upgrade_quest_3_pre" value="1"/>
+                <item type="clan_engineer_archer_attack_upgrade" value="1"/>
+                <item type="clan_engineer_archer_health_upgrade" value="1"/>
+                <item type="clan_engineer_guard_attack_upgrade" value="4"/>
+                <item type="clan_engineer_guard_health_upgrade" value="3"/>
+                <item type="clan_guard_engineer_buff_upgrade" value="1"/>
+                <item type="clan_knights_fix" value="1"/>
+                <item type="clan_participant" value="1"/>
+                <item type="clan_ship" value="2"/>
+                <item type="collection_quest_counter" value="12"/>
+                <item type="common_quest_01_complete" value="1"/>
+                <item type="common_quest_01_pre" value="1"/>
+                <item type="common_quest_03_complete" value="1"/>
+                <item type="common_quest_03_start" value="1"/>
+                <item type="common_quest_08_complete" value="1"/>
+                <item type="common_quest_08_start" value="1"/>
+                <item type="common_quest_11_complete" value="1"/>
+                <item type="common_quest_11_help" value="1"/>
+                <item type="common_quest_12_complete" value="1"/>
+                <item type="common_quest_12_init" value="1"/>
+                <item type="common_quest_13_complete" value="1"/>
+                <item type="common_quest_13_help" value="1"/>
+                <item type="common_quest_14_complete" value="1"/>
+                <item type="common_quest_14_init" value="1"/>
+                <item type="common_quest_16_complete" value="1"/>
+                <item type="common_quest_16_init" value="1"/>
+                <item type="common_quest_17_help_init" value="1"/>
+                <item type="common_quest_18_1_complete" value="1"/>
+                <item type="common_quest_18_complete" value="1"/>
+                <item type="common_quest_18_help_init" value="1"/>
+                <item type="common_quest_18_init" value="1"/>
+                <item type="common_quest_19_complete" value="1"/>
+                <item type="common_quest_19_start" value="1"/>
+                <item type="common_quest_20_complete" value="1"/>
+                <item type="common_quest_21_complete" value="1"/>
+                <item type="common_quest_21_init" value="1"/>
+                <item type="common_quest_22_complete" value="1"/>
+                <item type="common_quest_22_init" value="1"/>
+                <item type="common_quest_25_complete" value="1"/>
+                <item type="common_quest_25_init" value="1"/>
+                <item type="common_quest_26_complete" value="1"/>
+                <item type="common_quest_26_init" value="1"/>
+                <item type="common_quest_28_complete" value="1"/>
+                <item type="common_quest_28_init" value="1"/>
+                <item type="common_quest_31_init1" value="1"/>
+                <item type="common_quest_34_complete" value="1"/>
+                <item type="common_quest_34_pre" value="1"/>
+                <item type="common_quest_35_complete" value="1"/>
+                <item type="common_quest_37_complete" value="1"/>
+                <item type="common_quest_37_pre" value="1"/>
+                <item type="common_quest_38_complete" value="1"/>
+                <item type="common_quest_38_pre" value="1"/>
+                <item type="common_quest_43_complete" value="1"/>
+                <item type="common_quest_44_complete" value="1"/>
+                <item type="common_quest_54_complete" value="1"/>
+                <item type="common_quest_56_complete" value="1"/>
+                <item type="common_quest_56_pre" value="1"/>
+                <item type="common_quest_56_start" value="1"/>
+                <item type="common_quest_66_complete" value="1"/>
+                <item type="common_quest_67_complete" value="1"/>
+                <item type="common_quest_68_complete" value="1"/>
+                <item type="common_quest_69_complete" value="1"/>
+                <item type="common_quest_69_init" value="1"/>
+                <item type="common_quest_72_complete" value="1"/>
+                <item type="common_quest_72_init" value="1"/>
+                <item type="common_quest_73_complete" value="1"/>
+                <item type="common_quest_73_init" value="1"/>
+                <item type="common_quest_74_complete" value="1"/>
+                <item type="common_quest_74_init" value="1"/>
+                <item type="common_quest_75_complete" value="1"/>
+                <item type="common_quest_75_finish_item" value="1"/>
+                <item type="common_quest_75_init" value="1"/>
+                <item type="compensation_28_07_2016" value="1"/>
+                <item type="competition_timer" value="1470768254"/>
+                <item type="conqueror_territory_1_difficulty_0_levels_passed" value="1"/>
+                <item type="conqueror_territory_1_entry_opened" value="1"/>
+                <item type="conqueror_territory_2_difficulty_0_levels_passed" value="1"/>
+                <item type="conqueror_territory_2_entry_opened" value="1"/>
+                <item type="conqueror_territory_3_difficulty_0_levels_passed" value="1"/>
+                <item type="conqueror_territory_3_entry_opened" value="1"/>
+                <item type="crystal" value="4"/>
+                <item type="currency_type" value="1"/>
+                <item type="daily_dungeon_4_entry_opened" value="1"/>
+                <item type="daily_dungeon_5_entry_opened" value="1"/>
+                <item type="daily_dungeon_6_entry_opened" value="1"/>
+                <item type="daily_dungeon_7_entry_opened" value="1"/>
+                <item type="daily_dungeon_8_entry_opened" value="1"/>
+                <item type="daily_dungeon_additional_dynamic_delta" value="100"/>
+                <item type="daily_dungeon_dynamic_delta" value="90"/>
+                <item type="daily_fails" value="1"/>
+                <item type="daily_farm_count" value="17026"/>
+                <item type="daily_invite_total_item" value="10"/>
+                <item type="daily_item_count" value="17036"/>
+                <item type="daily_item_counter_item" value="1"/>
+                <item type="daily_item_counter_offer_common" value="15"/>
+                <item type="daily_item_counter_offer_super" value="9"/>
+                <item type="daily_item_counter_offer_uncommon" value="15"/>
+                <item type="daily_item_counter_offer_uncommon_buff_pvp_loop" value="15"/>
+                <item type="daily_item_counter_offer_uncommon_crystals_resources_loop" value="15"/>
+                <item type="daily_item_counter_offer_uncommon_mercenaries_loop" value="15"/>
+                <item type="daily_league_item" value="1"/>
+                <item type="daily_quest_books_final" value="1"/>
+                <item type="daily_quest_complete_counter" value="10"/>
+                <item type="daily_request_total_item" value="20"/>
+                <item type="daily_request_total_item_vk" value="20"/>
+                <item type="daily_scheme_quest_complete_counter" value="3"/>
+                <item type="daily_scheme_quest_final" value="1"/>
+                <item type="daily_scripts_time" value="1472119642"/>
+                <item type="daily_tournament_cooldown_active" value="1"/>
+                <item type="daily_tournament_cooldown_complete" value="1"/>
+                <item type="daily_tournament_init_start" value="1"/>
+                <item type="daily_tournament_start" value="1"/>
+                <item type="daily_wins" value="3"/>
+                <item type="dead_sun_city_1_citizen_count" value="2"/>
+                <item type="dead_sun_city_1_difficulty_1_levels_passed" value="7"/>
+                <item type="dead_sun_city_1_difficulty_2_levels_passed" value="7"/>
+                <item type="dead_sun_city_1_difficulty_3_levels_passed" value="7"/>
+                <item type="dead_sun_city_1_entry_opened" value="4"/>
+                <item type="dead_sun_city_1_reg_quest_counter" value="3"/>
+                <item type="dead_sun_city_1_treasure_count" value="21"/>
+                <item type="dead_sun_city_2_difficulty_1_levels_passed" value="8"/>
+                <item type="dead_sun_city_2_entry_opened" value="2"/>
+                <item type="dead_sun_city_2_reg_quest_counter" value="1"/>
+                <item type="dead_sun_city_2_treasure_count" value="8"/>
+                <item type="dead_sun_city_opt1_citizen_count" value="1"/>
+                <item type="dead_sun_city_opt1_difficulty_1_levels_passed" value="5"/>
+                <item type="dead_sun_city_opt1_difficulty_1_lose" value="1"/>
+                <item type="dead_sun_city_opt1_entry_opened" value="1"/>
+                <item type="dead_sun_city_opt1_treasure_count" value="5"/>
+                <item type="default_notification" value="1"/>
+                <item type="defender_attack_bought" value="14"/>
+                <item type="defender_attack_unlock" value="6"/>
+                <item type="defender_class_ability_power_old" value="3"/>
+                <item type="defender_equipment_upgraded" value="28"/>
+                <item type="defender_health_bought" value="14"/>
+                <item type="defender_health_unlock" value="6"/>
+                <item type="defender_power_item" value="11"/>
+                <item type="defender_power_item_counter" value="5"/>
+                <item type="defender_ra_pool_10" value="2"/>
+                <item type="defender_ra_pool_3" value="3"/>
+                <item type="dlc_big_letters_fix" value="1"/>
+                <item type="dust" value="3289"/>
+                <item type="dust_quest_counter" value="6830"/>
+                <item type="dust_reg_quest_counter" value="4930"/>
+                <item type="dust_reg_quest_upgrade_counter" value="4"/>
+                <item type="dust_reward_complete" value="1"/>
+                <item type="dust_store_constructed" value="1"/>
+                <item type="dust_store_count" value="1"/>
+                <item type="economics_rebalance_fix" value="1"/>
+                <item type="elaya_ability_1_upgrade" value="8"/>
+                <item type="elaya_common_equipment_4_blueprint" value="1"/>
+                <item type="elaya_fatigue_item" value="2"/>
+                <item type="elaya_unlock" value="1"/>
+                <item type="elliot_ability_1_upgrade" value="8"/>
+                <item type="elliot_ability_2_upgrade" value="7"/>
+                <item type="elliot_ability_3_upgrade" value="1"/>
+                <item type="elliot_common_equipment_7_blueprint" value="1"/>
+                <item type="elliot_fatigue_item" value="2"/>
+                <item type="engineer_attack_bought" value="13"/>
+                <item type="engineer_attack_unlock" value="6"/>
+                <item type="engineer_clan_temple_archer_ability_2_level" value="1"/>
+                <item type="engineer_clan_temple_archer_level" value="2"/>
+                <item type="engineer_clan_temple_guard_ability_1_level" value="1"/>
+                <item type="engineer_clan_temple_guard_level" value="7"/>
+                <item type="engineer_class_ability_power_old" value="9"/>
+                <item type="engineer_equipment_upgraded" value="26"/>
+                <item type="engineer_health_bought" value="13"/>
+                <item type="engineer_health_unlock" value="6"/>
+                <item type="engineer_quest" value="1"/>
+                <item type="engineer_quest_citizen_notification" value="1"/>
+                <item type="engineer_ra_pool_1" value="5"/>
+                <item type="engineer_ra_pool_10" value="2"/>
+                <item type="engineer_ra_pool_2" value="4"/>
+                <item type="engineer_ra_pool_9" value="2"/>
+                <item type="entartainment_reg_quest_upgrade_counter" value="1"/>
+                <item type="equipment_blueprint" value="8"/>
+                <item type="equipment_upgraded" value="131"/>
+                <item type="equipment_upgraded_total" value="137"/>
+                <item type="eva_citizen_notification" value="1"/>
+                <item type="event_daily_item" value="17028"/>
+                <item type="event_dungeon_1_difficulty_delta" value="100"/>
+                <item type="event_dungeon_2_difficulty_delta" value="100"/>
+                <item type="event_dungeon_3_difficulty_delta" value="100"/>
+                <item type="event_dynamic_delta" value="85"/>
+                <item type="event_farm_1_dynamic_delta_old" value="100"/>
+                <item type="event_farm_2_dynamic_delta_old" value="100"/>
+                <item type="event_farm_3_dynamic_delta_old" value="100"/>
+                <item type="event_finish_fix" value="1"/>
+                <item type="everyday_offer_22_0_item" value="1"/>
+                <item type="everyday_offer_22_0_showed" value="1"/>
+                <item type="everyday_offer_array_0_action" value="1"/>
+                <item type="everyday_offer_array_offers_count" value="39"/>
+                <item type="everyday_offers_max_count" value="1"/>
+                <item type="farm_completed" value="1"/>
+                <item type="field" value="1"/>
+                <item type="field_active" value="1"/>
+                <item type="field_s01" value="10"/>
+                <item type="field_s02" value="6"/>
+                <item type="fish_active" value="1"/>
+                <item type="food" value="4425"/>
+                <item type="food_collected" value="78"/>
+                <item type="food_quest_counter" value="10285"/>
+                <item type="food_reg_quest_counter" value="9698"/>
+                <item type="frazmir_citizen_notification" value="1"/>
+                <item type="gambling_collected" value="6"/>
+                <item type="gold" value="978"/>
+                <item type="gold_quest_counter" value="12148"/>
+                <item type="gold_reg_quest_counter" value="8702"/>
+                <item type="golden_league_item" value="1"/>
+                <item type="granary_constructed" value="1"/>
+                <item type="granary_count" value="2"/>
+                <item type="group_gift_item" value="112"/>
+                <item type="group_gift_quest" value="2"/>
+                <item type="group_gift_quest_11_2_complete" value="1"/>
+                <item type="group_gift_quest_12_1_complete" value="1"/>
+                <item type="grove_active" value="1"/>
+                <item type="grove_s01" value="5"/>
+                <item type="grove_s04" value="1"/>
+                <item type="gustav_citizen_notification" value="1"/>
+                <item type="hall_of_heroes" value="1"/>
+                <item type="harbor" value="1"/>
+                <item type="heal" value="21"/>
+                <item type="heal_level" value="10"/>
+                <item type="heal_reg_quest_counter" value="210"/>
+                <item type="heal_regen_1_bought" value="1"/>
+                <item type="heal_regen_2_bought" value="1"/>
+                <item type="heal_treatment_1_bought" value="1"/>
+                <item type="heal_treatment_2_bought" value="1"/>
+                <item type="heal_treatment_3_bought" value="1"/>
+                <item type="heal_treatment_4_bought" value="1"/>
+                <item type="heal_treatment_5_bought" value="1"/>
+                <item type="heal_treatment_6_bought" value="1"/>
+                <item type="heal_treatment_7_bought" value="1"/>
+                <item type="hero_ability_crystal_upgrade_counter" value="21"/>
+                <item type="hero_ability_upgrade_counter" value="56"/>
+                <item type="hero_aurora_given" value="1"/>
+                <item type="hero_brock_given" value="1"/>
+                <item type="hero_hire_reg_quest_counter" value="4"/>
+                <item type="hero_house" value="1"/>
+                <item type="hero_house_count" value="7"/>
+                <item type="hero_marianna_given" value="1"/>
+                <item type="hero_teo_given" value="1"/>
+                <item type="hero_tiamat_given" value="1"/>
+                <item type="hero_upgrade_locks_fix" value="1"/>
+                <item type="heroes_unlock_items_fix2" value="1"/>
+                <item type="heroes_unlocked_count" value="10"/>
+                <item type="horror" value="18"/>
+                <item type="horror_damage_1_bought" value="1"/>
+                <item type="horror_damage_2_bought" value="1"/>
+                <item type="horror_damage_3_bought" value="1"/>
+                <item type="horror_delay_1_bought" value="1"/>
+                <item type="horror_level" value="5"/>
+                <item type="horror_quest" value="20"/>
+                <item type="horror_reg_quest_counter" value="200"/>
+                <item type="hunter_attack_bought" value="14"/>
+                <item type="hunter_attack_unlock" value="6"/>
+                <item type="hunter_class_ability_power_old" value="4"/>
+                <item type="hunter_equipment_upgraded" value="28"/>
+                <item type="hunter_health_bought" value="14"/>
+                <item type="hunter_health_unlock" value="6"/>
+                <item type="hunter_ra_pool_10" value="1"/>
+                <item type="hunter_ra_pool_3" value="3"/>
+                <item type="ice_king_finish_item" value="1"/>
+                <item type="independence_day_event_finish_item" value="1"/>
+                <item type="independence_day_finish_fix" value="2"/>
+                <item type="iron_league_item" value="1"/>
+                <item type="isgard_ability_1_upgrade" value="8"/>
+                <item type="isgard_ability_2_upgrade" value="8"/>
+                <item type="isgard_ability_3_upgrade" value="3"/>
+                <item type="isgard_common_equipment_8_blueprint" value="1"/>
+                <item type="isgard_fatigue_item" value="2"/>
+                <item type="isgard_unlock" value="1"/>
+                <item type="jungle_ritual_event_finish_item" value="1"/>
+                <item type="jungle_ritual_event_start_quest_complete" value="1"/>
+                <item type="jungle_ritual_story_1_entry_opened" value="2"/>
+                <item type="kain_ability_fix" value="1"/>
+                <item type="kate_citizen_notification" value="1"/>
+                <item type="kin_citizen_notification" value="1"/>
+                <item type="knowledge" value="12"/>
+                <item type="ksandr_citizen_notification" value="1"/>
+                <item type="lanklar_ability_1_upgrade" value="8"/>
+                <item type="lanklar_fatigue_item" value="2"/>
+                <item type="league_place" value="4"/>
+                <item type="letter_item" value="100"/>
+                <item type="level_up_3_quest" value="1"/>
+                <item type="level_up_item" value="7"/>
+                <item type="level_up_item_fix" value="1"/>
+                <item type="lumberjack" value="1"/>
+                <item type="lumberjack_active" value="1"/>
+                <item type="lumberjack_s01" value="14"/>
+                <item type="lumberjack_s03" value="1"/>
+                <item type="lumberjack_s04" value="2"/>
+                <item type="mage_attack_bought" value="14"/>
+                <item type="mage_attack_unlock" value="6"/>
+                <item type="mage_class_ability_power_old" value="3"/>
+                <item type="mage_equipment_upgraded" value="28"/>
+                <item type="mage_health_bought" value="14"/>
+                <item type="mage_health_unlock" value="6"/>
+                <item type="mage_ra_pool_10" value="2"/>
+                <item type="mage_ra_pool_3" value="3"/>
+                <item type="mage_ra_pool_5" value="1"/>
+                <item type="main_quest_01_complete" value="1"/>
+                <item type="main_quest_02_complete" value="1"/>
+                <item type="main_quest_03_complete" value="1"/>
+                <item type="main_quest_05_complete" value="1"/>
+                <item type="main_quest_05_init" value="1"/>
+                <item type="main_quest_06_complete" value="1"/>
+                <item type="main_quest_07_complete" value="1"/>
+                <item type="main_quest_08_complete" value="1"/>
+                <item type="main_quest_08_init" value="1"/>
+                <item type="main_quest_09_complete" value="1"/>
+                <item type="main_quest_10_complete" value="1"/>
+                <item type="main_quest_10_dust" value="1"/>
+                <item type="main_quest_11_complete" value="1"/>
+                <item type="main_quest_12_init" value="1"/>
+                <item type="main_quest_13_complete" value="1"/>
+                <item type="main_quest_14_init" value="1"/>
+                <item type="main_quest_15_1_complete" value="1"/>
+                <item type="main_quest_15_1_start" value="1"/>
+                <item type="main_quest_15_2_complete" value="1"/>
+                <item type="main_quest_15_2_start" value="1"/>
+                <item type="main_quest_16_complete" value="1"/>
+                <item type="main_quest_16_start" value="1"/>
+                <item type="main_quest_17_complete" value="1"/>
+                <item type="main_quest_17_start" value="1"/>
+                <item type="main_quest_18_init" value="1"/>
+                <item type="main_quest_19_2_complete" value="1"/>
+                <item type="main_quest_19_2_init" value="1"/>
+                <item type="main_quest_19_complete" value="1"/>
+                <item type="main_quest_20_complete" value="1"/>
+                <item type="main_quest_21_init" value="1"/>
+                <item type="main_quest_24_complete" value="1"/>
+                <item type="main_quest_25_init" value="1"/>
+                <item type="main_quest_26_complete" value="1"/>
+                <item type="main_quest_29_complete" value="1"/>
+                <item type="main_quest_30_init" value="1"/>
+                <item type="main_quest_31_complete" value="1"/>
+                <item type="main_quest_32_complete" value="1"/>
+                <item type="main_quest_33_complete" value="1"/>
+                <item type="main_quest_33_init" value="1"/>
+                <item type="main_quest_34_init" value="1"/>
+                <item type="main_quest_38_complete" value="1"/>
+                <item type="main_tutorial_part" value="6"/>
+                <item type="man_frag" value="41"/>
+                <item type="marianna_ability_1_upgrade" value="1"/>
+                <item type="marianna_common_equipment_2_blueprint" value="1"/>
+                <item type="marianna_common_equipment_6_blueprint" value="1"/>
+                <item type="marianna_fatigue_item" value="1"/>
+                <item type="marianna_unlock" value="1"/>
+                <item type="martin_ability_1_upgrade" value="8"/>
+                <item type="martin_ability_2_upgrade" value="1"/>
+                <item type="martin_ability_3_upgrade" value="1"/>
+                <item type="martin_common_equipment_1" value="1"/>
+                <item type="martin_common_equipment_1_blueprint" value="1"/>
+                <item type="martin_fatigue_item" value="2"/>
+                <item type="mary_citizen_notification" value="1"/>
+                <item type="materials" value="5117"/>
+                <item type="materials_quest_counter" value="15941"/>
+                <item type="materials_reg_quest_counter" value="15710"/>
+                <item type="materials_reg_quest_upgrade_counter" value="5"/>
+                <item type="merc_beakmole_2_count_item" value="0"/>
+                <item type="merc_belcher_2_count_item" value="0"/>
+                <item type="merc_hell_bear_1_count_item" value="0"/>
+                <item type="merc_hell_bear_2_count_item" value="0"/>
+                <item type="merc_legion_item" value="1"/>
+                <item type="merc_mauri_grinder_2_count_item" value="0"/>
+                <item type="merc_power" value="2"/>
+                <item type="merc_rare_pig_warrior_attack_1" value="1"/>
+                <item type="merc_rare_pig_warrior_count_item" value="0"/>
+                <item type="merc_rare_pig_warrior_lvl_item" value="1"/>
+                <item type="merc_rare_pig_warrior_quest_count_item" value="6"/>
+                <item type="merc_rare_pig_warrior_upgrade_counter" value="1"/>
+                <item type="merc_rocketjumper_1_count_item" value="0"/>
+                <item type="merc_stonenibbler_red_1_count_item" value="0"/>
+                <item type="merc_thug_female_1_count_item" value="0"/>
+                <item type="merc_thug_male_1_count_item" value="0"/>
+                <item type="mercenaries_shop_slot_0" value="1"/>
+                <item type="mercenaries_shop_slot_1" value="5"/>
+                <item type="mercenaries_shop_slot_2" value="63"/>
+                <item type="mercenaries_shop_slot_3" value="2"/>
+                <item type="mercenaries_shop_slot_4" value="54"/>
+                <item type="mercenaries_shop_slot_5" value="68"/>
+                <item type="mercenaries_shop_slot_6" value="3"/>
+                <item type="mercenaries_shop_slot_7" value="17"/>
+                <item type="mercenaries_shop_slot_8" value="27"/>
+                <item type="mercenary_shop_item_10_available" value="1"/>
+                <item type="mercenary_shop_item_11_available" value="1"/>
+                <item type="mercenary_shop_item_12_available" value="1"/>
+                <item type="mercenary_shop_item_13_available" value="1"/>
+                <item type="mercenary_shop_item_14_available" value="1"/>
+                <item type="mercenary_shop_item_15_available" value="1"/>
+                <item type="mercenary_shop_item_16_available" value="1"/>
+                <item type="mercenary_shop_item_17_available" value="1"/>
+                <item type="mercenary_shop_item_18_available" value="1"/>
+                <item type="mercenary_shop_item_19_available" value="1"/>
+                <item type="mercenary_shop_item_1_available" value="1"/>
+                <item type="mercenary_shop_item_20_available" value="1"/>
+                <item type="mercenary_shop_item_21_available" value="1"/>
+                <item type="mercenary_shop_item_22_available" value="1"/>
+                <item type="mercenary_shop_item_23_available" value="1"/>
+                <item type="mercenary_shop_item_24_available" value="1"/>
+                <item type="mercenary_shop_item_25_available" value="1"/>
+                <item type="mercenary_shop_item_26_available" value="1"/>
+                <item type="mercenary_shop_item_27_available" value="1"/>
+                <item type="mercenary_shop_item_28_available" value="1"/>
+                <item type="mercenary_shop_item_29_available" value="1"/>
+                <item type="mercenary_shop_item_2_available" value="1"/>
+                <item type="mercenary_shop_item_30_available" value="1"/>
+                <item type="mercenary_shop_item_31_available" value="1"/>
+                <item type="mercenary_shop_item_32_available" value="1"/>
+                <item type="mercenary_shop_item_33_available" value="1"/>
+                <item type="mercenary_shop_item_34_available" value="1"/>
+                <item type="mercenary_shop_item_35_available" value="1"/>
+                <item type="mercenary_shop_item_36_available" value="1"/>
+                <item type="mercenary_shop_item_37_available" value="1"/>
+                <item type="mercenary_shop_item_38_available" value="1"/>
+                <item type="mercenary_shop_item_39_available" value="1"/>
+                <item type="mercenary_shop_item_3_available" value="1"/>
+                <item type="mercenary_shop_item_40_available" value="1"/>
+                <item type="mercenary_shop_item_41_available" value="1"/>
+                <item type="mercenary_shop_item_42_available" value="1"/>
+                <item type="mercenary_shop_item_43_available" value="1"/>
+                <item type="mercenary_shop_item_44_available" value="1"/>
+                <item type="mercenary_shop_item_45_available" value="1"/>
+                <item type="mercenary_shop_item_46_available" value="1"/>
+                <item type="mercenary_shop_item_47_available" value="1"/>
+                <item type="mercenary_shop_item_48_available" value="1"/>
+                <item type="mercenary_shop_item_49_available" value="1"/>
+                <item type="mercenary_shop_item_4_available" value="1"/>
+                <item type="mercenary_shop_item_50_available" value="1"/>
+                <item type="mercenary_shop_item_51_available" value="1"/>
+                <item type="mercenary_shop_item_52_available" value="1"/>
+                <item type="mercenary_shop_item_53_available" value="1"/>
+                <item type="mercenary_shop_item_54_available" value="1"/>
+                <item type="mercenary_shop_item_55_available" value="1"/>
+                <item type="mercenary_shop_item_56_available" value="1"/>
+                <item type="mercenary_shop_item_57_available" value="1"/>
+                <item type="mercenary_shop_item_58_available" value="1"/>
+                <item type="mercenary_shop_item_59_available" value="1"/>
+                <item type="mercenary_shop_item_5_available" value="1"/>
+                <item type="mercenary_shop_item_60_available" value="1"/>
+                <item type="mercenary_shop_item_61_available" value="1"/>
+                <item type="mercenary_shop_item_62_available" value="1"/>
+                <item type="mercenary_shop_item_63_available" value="1"/>
+                <item type="mercenary_shop_item_64_available" value="1"/>
+                <item type="mercenary_shop_item_65_available" value="1"/>
+                <item type="mercenary_shop_item_66_available" value="1"/>
+                <item type="mercenary_shop_item_67_available" value="1"/>
+                <item type="mercenary_shop_item_68_available" value="1"/>
+                <item type="mercenary_shop_item_69_available" value="1"/>
+                <item type="mercenary_shop_item_6_available" value="1"/>
+                <item type="mercenary_shop_item_70_available" value="1"/>
+                <item type="mercenary_shop_item_71_available" value="1"/>
+                <item type="mercenary_shop_item_72_available" value="1"/>
+                <item type="mercenary_shop_item_73_available" value="1"/>
+                <item type="mercenary_shop_item_74_available" value="1"/>
+                <item type="mercenary_shop_item_75_available" value="1"/>
+                <item type="mercenary_shop_item_76_available" value="1"/>
+                <item type="mercenary_shop_item_77_available" value="1"/>
+                <item type="mercenary_shop_item_78_available" value="1"/>
+                <item type="mercenary_shop_item_7_available" value="1"/>
+                <item type="mercenary_shop_item_8_available" value="1"/>
+                <item type="mercenary_shop_item_9_available" value="1"/>
+                <item type="meteor" value="41"/>
+                <item type="meteor_count_1_bought" value="1"/>
+                <item type="meteor_count_2_bought" value="1"/>
+                <item type="meteor_damage_1_bought" value="1"/>
+                <item type="meteor_damage_2_bought" value="1"/>
+                <item type="meteor_damage_3_bought" value="1"/>
+                <item type="meteor_damage_4_bought" value="1"/>
+                <item type="meteor_level" value="7"/>
+                <item type="meteor_quest" value="21"/>
+                <item type="meteor_reg_quest_counter" value="210"/>
+                <item type="mines_1_citizen_count" value="2"/>
+                <item type="mines_1_difficulty_1_levels_passed" value="4"/>
+                <item type="mines_1_difficulty_1_lvl1_choose_room" value="1"/>
+                <item type="mines_1_difficulty_1_lvl2_choose_room" value="1"/>
+                <item type="mines_1_difficulty_1_lvl5_choose_room" value="1"/>
+                <item type="mines_1_difficulty_2_levels_passed" value="4"/>
+                <item type="mines_1_difficulty_3_levels_passed" value="4"/>
+                <item type="mines_1_entry_opened" value="4"/>
+                <item type="mines_1_treasure_count" value="12"/>
+                <item type="mines_2_citizen_count" value="3"/>
+                <item type="mines_2_difficulty_1_levels_passed" value="6"/>
+                <item type="mines_2_difficulty_2_levels_passed" value="6"/>
+                <item type="mines_2_difficulty_3_levels_passed" value="6"/>
+                <item type="mines_2_difficulty_3_lose" value="2"/>
+                <item type="mines_2_entry_opened" value="4"/>
+                <item type="mines_2_treasure_count" value="18"/>
+                <item type="mines_3_citizen_count" value="3"/>
+                <item type="mines_3_difficulty_1_levels_passed" value="6"/>
+                <item type="mines_3_difficulty_1_lose" value="1"/>
+                <item type="mines_3_difficulty_2_levels_passed" value="6"/>
+                <item type="mines_3_difficulty_3_levels_passed" value="6"/>
+                <item type="mines_3_entry_opened" value="4"/>
+                <item type="mines_3_treasure_count" value="18"/>
+                <item type="mines_lose" value="1"/>
+                <item type="mines_story_chests_opened" value="2"/>
+                <item type="mines_story_citizen_count" value="1"/>
+                <item type="mines_story_knocker_count" value="4"/>
+                <item type="mines_story_rats_count" value="22"/>
+                <item type="mines_story_treasure_count" value="2"/>
+                <item type="miroslav_citizen_notification" value="1"/>
+                <item type="offer_common_fish_action" value="1"/>
+                <item type="offer_common_fish_item" value="2"/>
+                <item type="offer_common_quarry_action" value="1"/>
+                <item type="offer_common_quarry_item" value="2"/>
+                <item type="offer_everyday" value="1"/>
+                <item type="offer_everyday_interval_shows" value="2"/>
+                <item type="offer_everyday_overall_shows" value="11"/>
+                <item type="offer_everyday_strike_shows" value="10"/>
+                <item type="offer_fortune_teller_cooldown_item" value="1"/>
+                <item type="offer_mid_payment_group_item" value="1"/>
+                <item type="offer_mirven_220816_init" value="1"/>
+                <item type="offer_mirven_220816_start_item" value="1"/>
+                <item type="offer_ritual_1_start_1_finish_item" value="1"/>
+                <item type="offer_ritual_1_start_1_init" value="1"/>
+                <item type="offer_ritual_1_start_1_start_item" value="1"/>
+                <item type="offer_ritual_1_super_started_item" value="1"/>
+                <item type="offer_ritual_3_mid_1_finish_item" value="1"/>
+                <item type="offer_ritual_3_mid_1_init" value="1"/>
+                <item type="offer_ritual_3_mid_1_start_item" value="1"/>
+                <item type="offer_ritual_3_mid_started_item" value="1"/>
+                <item type="offer_ritual_6_spells_buff_1_finish_item" value="1"/>
+                <item type="offer_ritual_6_spells_buff_1_init" value="1"/>
+                <item type="offer_ritual_6_spells_buff_1_start_item" value="1"/>
+                <item type="offer_ritual_6_spells_buff_started_item" value="1"/>
+                <item type="offer_ritual_7_start_1_finish_item" value="1"/>
+                <item type="offer_ritual_7_start_1_init" value="1"/>
+                <item type="offer_ritual_7_start_1_start_item" value="1"/>
+                <item type="offer_ritual_7_super_started_item" value="1"/>
+                <item type="offer_ritual_9_mid_1_finish_item" value="1"/>
+                <item type="offer_ritual_9_mid_1_init" value="1"/>
+                <item type="offer_ritual_9_mid_1_start_item" value="1"/>
+                <item type="offer_ritual_9_mid_started_item" value="1"/>
+                <item type="offer_starter_pack_7_init" value="1"/>
+                <item type="offer_starter_pack_action_item" value="1"/>
+                <item type="offer_super" value="1"/>
+                <item type="offer_super_1_item" value="2"/>
+                <item type="offer_super_1_passed" value="1"/>
+                <item type="offer_uncommon_pig_new_start" value="1"/>
+                <item type="offer_uncommon_ratking_key_item" value="2"/>
+                <item type="offer_uncommon_ruby_forest_key_item" value="2"/>
+                <item type="offer_uncommon_scorpion_press_item" value="2"/>
+                <item type="offer_uncommon_treasure_map_item" value="2"/>
+                <item type="offer_weekend_iteration" value="2433"/>
+                <item type="olli_citizen_notification" value="1"/>
+                <item type="pearl_islands_1_entry_opened" value="1"/>
+                <item type="piece_of_arkentarium" value="2"/>
+                <item type="pirates_event_entry_opened" value="1"/>
+                <item type="pirates_event_init" value="1"/>
+                <item type="platform_item" value="3"/>
+                <item type="portal" value="15"/>
+                <item type="production_reg_quest_upgrade_counter" value="13"/>
+                <item type="quarry_active" value="1"/>
+                <item type="rat_empire_event_finish_item" value="1"/>
+                <item type="rating" value="56"/>
+                <item type="ratking_treasury_entry_opened" value="1"/>
+                <item type="reg_quest_tournaments_won" value="6"/>
+                <item type="regular_max_quests_count" value="2"/>
+                <item type="regular_quest_1_0_complete" value="1"/>
+                <item type="regular_quest_1_0_init_action" value="1"/>
+                <item type="regular_quest_1_1_complete" value="1"/>
+                <item type="regular_quest_1_1_init_action" value="1"/>
+                <item type="regular_quest_2_0_complete" value="1"/>
+                <item type="regular_quest_2_0_init_action" value="1"/>
+                <item type="regular_quest_2_1_complete" value="1"/>
+                <item type="regular_quest_2_1_init_action" value="1"/>
+                <item type="regular_quest_3_0_complete" value="1"/>
+                <item type="regular_quest_3_0_init_action" value="1"/>
+                <item type="regular_quest_3_1_complete" value="1"/>
+                <item type="regular_quest_3_1_init_action" value="1"/>
+                <item type="regular_quest_4_0_complete" value="1"/>
+                <item type="regular_quest_4_0_init_action" value="1"/>
+                <item type="regular_quest_4_1_complete" value="1"/>
+                <item type="regular_quest_4_1_init_action" value="1"/>
+                <item type="regular_quest_5_0_complete" value="1"/>
+                <item type="regular_quest_5_0_init_action" value="1"/>
+                <item type="regular_quest_5_1_complete" value="1"/>
+                <item type="regular_quest_5_1_init_action" value="1"/>
+                <item type="regular_quest_6_0_init_action" value="1"/>
+                <item type="regular_quest_6_1_complete" value="1"/>
+                <item type="regular_quest_6_1_init_action" value="1"/>
+                <item type="regular_quest_7_0_init_action" value="1"/>
+                <item type="regular_quest_block_0_action" value="1"/>
+                <item type="regular_quest_block_0_complete" value="1"/>
+                <item type="regular_quest_block_0_complete_action" value="1"/>
+                <item type="regular_quest_block_1_action" value="1"/>
+                <item type="regular_quest_block_1_complete" value="1"/>
+                <item type="regular_quest_block_1_complete_action" value="1"/>
+                <item type="regular_quest_block_id" value="2"/>
+                <item type="regular_quest_block_quests_count" value="6"/>
+                <item type="ritual_mask_counter" value="1"/>
+                <item type="round_quest_counter" value="22"/>
+                <item type="ruby_forest_entry_opened" value="1"/>
+                <item type="ruby_forest_init" value="1"/>
+                <item type="rudi_citizen_notification" value="1"/>
+                <item type="schemes" value="11"/>
+                <item type="scorpion_dlc_entry_opened" value="1"/>
+                <item type="scorpion_dlc_init" value="1"/>
+                <item type="scorpion_king_event_finish_item" value="1"/>
+                <item type="shield_level" value="1"/>
+                <item type="shield_level_set" value="1"/>
+                <item type="silver_league_item" value="1"/>
+                <item type="soul_gem" value="5"/>
+                <item type="special_item_field_reg_quest_counter" value="21"/>
+                <item type="special_item_fish_reg_quest_counter" value="8"/>
+                <item type="special_item_grove_reg_quest_counter" value="21"/>
+                <item type="special_item_lumberjack_reg_quest_counter" value="21"/>
+                <item type="special_item_quarry_reg_quest_counter" value="13"/>
+                <item type="special_item_reg_quest_counter" value="71"/>
+                <item type="spell_complete_item_quest" value="450"/>
+                <item type="spell_count_item_quest" value="610"/>
+                <item type="spell_reg_quest_counter" value="210"/>
+                <item type="spell_upgrade_quest_counter" value="10"/>
+                <item type="starfall" value="0"/>
+                <item type="stone_map_piece_counter" value="21"/>
+                <item type="stone_of_life" value="8"/>
+                <item type="storehouse_count" value="1"/>
+                <item type="support_scheme" value="5"/>
+                <item type="tavern_collected" value="105"/>
+                <item type="tavern_unlock" value="1"/>
+                <item type="ted_citizen_notification" value="1"/>
+                <item type="teo_unlock" value="1"/>
+                <item type="territory_1" value="1"/>
+                <item type="territory_1_available" value="1"/>
+                <item type="territory_2" value="1"/>
+                <item type="territory_3" value="1"/>
+                <item type="territory_start" value="1"/>
+                <item type="test_item" value="11"/>
+                <item type="tiamat_unlock" value="1"/>
+                <item type="token" value="221"/>
+                <item type="token_fix_price" value="1"/>
+                <item type="token_mercenary_quest_counter" value="6"/>
+                <item type="token_quest_counter" value="276"/>
+                <item type="token_reg_quest_counter" value="292"/>
+                <item type="tournament_championship_1_round_random" value="2"/>
+                <item type="tournament_championship_2_round_random" value="2"/>
+                <item type="tournament_championship_3_round_random" value="2"/>
+                <item type="tournament_daily_random" value="3"/>
+                <item type="tournament_simple_01_available" value="1"/>
+                <item type="tournament_simple_random" value="1"/>
+                <item type="tournaments_won" value="23"/>
+                <item type="treasury_constructed" value="1"/>
+                <item type="treasury_count" value="1"/>
+                <item type="tutorial_complete" value="1"/>
+                <item type="tutorial_meteor" value="0"/>
+                <item type="up_ab" value="6"/>
+                <item type="upgrade_pool_4" value="32"/>
+                <item type="user_power" value="40"/>
+                <item type="user_power_first_items_give" value="1"/>
+                <item type="user_power_old" value="37"/>
+                <item type="user_power_r_timing" value="1472014749"/>
+                <item type="user_power_to_analitics" value="1472119650"/>
+                <item type="user_relic_and_ability_bonus_active" value="1"/>
+                <item type="volcano_event_finish_item" value="1"/>
+                <item type="warrior_attack_bought" value="13"/>
+                <item type="warrior_attack_unlock" value="6"/>
+                <item type="warrior_class_ability_power_old" value="4"/>
+                <item type="warrior_equipment_upgraded" value="27"/>
+                <item type="warrior_health_bought" value="14"/>
+                <item type="warrior_health_unlock" value="6"/>
+                <item type="warrior_ra_pool_10" value="1"/>
+                <item type="warrior_ra_pool_3" value="3"/>
+                <item type="wich_quest" value="1"/>
+                <item type="wich_quest_citizen_notification" value="1"/>
+            </items>
+            <championship end_time="1472100293"/>
+            <presents/>
+        </user>
+    </init_game>
+    <current_time>1472040521</current_time>
+    <updated>
+        <building>
+            <id>7</id>
+            <type>lumberjack</type>
+            <x>32</x>
+            <y>46</y>
+            <construct_timing_id>0</construct_timing_id>
+            <int_properties>
+                <property>
+                    <type>lumberjack_s01_counter</type>
+                    <value>10</value>
+                </property>
+                <property>
+                    <type>lumberjack_s02_counter</type>
+                    <value>22</value>
+                </property>
+                <property>
+                    <type>lumberjack_s03</type>
+                    <value>1</value>
+                </property>
+                <property>
+                    <type>lumberjack_s04_counter</type>
+                    <value>10</value>
+                </property>
+                <property>
+                    <type>materials</type>
+                    <value>350</value>
+                </property>
+                <property>
+                    <type>upgrade_1</type>
+                    <value>1</value>
+                </property>
+                <property>
+                    <type>upgrade_4</type>
+                    <value>1</value>
+                </property>
+                <property>
+                    <type>upgrade_7</type>
+                    <value>1</value>
+                </property>
+                <property>
+                    <type>upgrade_8</type>
+                    <value>1</value>
+                </property>
+                <property>
+                    <type>upgrade_9</type>
+                    <value>1</value>
+                </property>
+            </int_properties>
+            <tickers>
+                <ticker type="regular" last_update="1472040390"/>
+                <ticker type="special" last_update="1472039850"/>
+            </tickers>
+        </building>
+    </updated>
+    <clan_battle end_time="1472072400" clan_battle_id="251" status="active"/>
+    <cycle_competition_timer start="1471532401" duration="284400" relax="100800" type="life_order_competition"
+                             next_task_time="1480066000" completed="true"/>
+</response>
